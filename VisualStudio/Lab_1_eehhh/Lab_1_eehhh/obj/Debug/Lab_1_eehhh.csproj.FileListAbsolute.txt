@@ -1,4 +1,0 @@
-c:\users\анастасия\documents\visual studio 2013\Projects\Lab_1_eehhh\Lab_1_eehhh\bin\Debug\Lab_1_eehhh.dll
-c:\users\анастасия\documents\visual studio 2013\Projects\Lab_1_eehhh\Lab_1_eehhh\bin\Debug\Lab_1_eehhh.pdb
-c:\users\анастасия\documents\visual studio 2013\Projects\Lab_1_eehhh\Lab_1_eehhh\obj\Debug\Lab_1_eehhh.dll
-c:\users\анастасия\documents\visual studio 2013\Projects\Lab_1_eehhh\Lab_1_eehhh\obj\Debug\Lab_1_eehhh.pdb

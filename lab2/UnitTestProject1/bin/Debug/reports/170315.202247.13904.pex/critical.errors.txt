@@ -1,0 +1,22 @@
+------------------------------------------------
+2017-03-15 20:22:48Z> [Execution] Произошел неожиданный сбой при просмотре
+System.IO.FileNotFoundException Не удалось загрузить файл или сборку "Microsoft.Z3.dll" либо одну из их зависимостей. Не найден указанный модуль.
+System.IO.FileNotFoundException: Не удалось загрузить файл или сборку "Microsoft.Z3.dll" либо одну из их зависимостей. Не найден указанный модуль.
+Имя файла: 'Microsoft.Z3.dll'
+   в Microsoft.ExtendedReflection.Z32Solver.Z3Solver..ctor(Z3SolverFactory owner, Z3SolverStatistics statistics)
+   в Microsoft.ExtendedReflection.Z32Solver.Z3SolverFactory.CreateSolver(ISolverStatistics statistics)
+   в Microsoft.Pex.Engine.InputEnumeration.SearchingModelProviderBySolving.Worker..ctor(SearchingModelProviderBySolving owner, IExecutionNode lastNode)
+   в Microsoft.Pex.Engine.InputEnumeration.SearchingModelProviderBySolving.CreateWorker(IExecutionNode lastNode)
+   в Microsoft.Pex.Engine.InputEnumeration.SearchingModelProviderBase.<>c__DisplayClass46_0.<InternalCreateWorker>b__0()
+   в Microsoft.Pex.Engine.InputEnumeration.SearchingModelProviderBase.IncrementalWorker..ctor(SearchingModelProviderBase owner, IModelHints parentModelHints, Func`1 innerWorkerFactory)
+   в Microsoft.Pex.Engine.InputEnumeration.SearchingModelProviderBase.InternalCreateWorker(IExecutionNode lastNode)
+   в Microsoft.Pex.Engine.InputEnumeration.SearchingModelProviderBase.<GetInputModels>d__38.MoveNext()
+   в Microsoft.Pex.Engine.InputEnumeration.PexInputEnumeratorManager.SequentialInputEnumerator.<GetInputModels>d__6.MoveNext()
+   в Microsoft.Pex.Engine.Search.Searcher.<GetPathEngines>d__27.MoveNext()
+   в Microsoft.Pex.Engine.Drivers.PexExplorationDriver.InternalExplore()
+   в Microsoft.Pex.Engine.Drivers.PexExplorationDriverBase.CheckedExploreInternal()
+   в Microsoft.Pex.Engine.Drivers.PexExplorationDriverBase.Execute()
+   в Microsoft.Pex.Engine.Drivers.PexExplorationDriverBase.Explore()
+
+
+
