@@ -19,3 +19,10 @@ D:\Загрузки\Тестирование\lab2\UnitTestProject1\bin\Debug\nor
 D:\Загрузки\Тестирование\lab2\UnitTestProject1\bin\Debug\normnfd.nlp
 D:\Загрузки\Тестирование\lab2\UnitTestProject1\bin\Debug\normnfkc.nlp
 D:\Загрузки\Тестирование\lab2\UnitTestProject1\bin\Debug\normnfkd.nlp
+D:\Git_project\Testing\lab2\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Git_project\Testing\lab2\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Git_project\Testing\lab2\UnitTestProject1\bin\Debug\lab2.exe
+D:\Git_project\Testing\lab2\UnitTestProject1\bin\Debug\lab2.pdb
+D:\Git_project\Testing\lab2\UnitTestProject1\obj\Debug\lab2Tests.csprojResolveAssemblyReference.cache
+D:\Git_project\Testing\lab2\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Git_project\Testing\lab2\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

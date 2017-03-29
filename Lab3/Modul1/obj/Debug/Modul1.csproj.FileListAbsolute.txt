@@ -1,0 +1,8 @@
+D:\Загрузки\Lab3\Modul1\bin\Debug\Modul1.dll
+D:\Загрузки\Lab3\Modul1\bin\Debug\Modul1.pdb
+D:\Загрузки\Lab3\Modul1\bin\Debug\Lab3.exe
+D:\Загрузки\Lab3\Modul1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Загрузки\Lab3\Modul1\bin\Debug\Lab3.pdb
+D:\Загрузки\Lab3\Modul1\obj\Debug\Modul1.csprojResolveAssemblyReference.cache
+D:\Загрузки\Lab3\Modul1\obj\Debug\Modul1.dll
+D:\Загрузки\Lab3\Modul1\obj\Debug\Modul1.pdb
