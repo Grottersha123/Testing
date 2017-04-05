@@ -1,0 +1,8 @@
+D:\Тестирование\UnitTestLab1\UnitTestLab1\bin\Debug\UnitTestLab1.dll
+D:\Тестирование\UnitTestLab1\UnitTestLab1\bin\Debug\UnitTestLab1.pdb
+D:\Тестирование\UnitTestLab1\UnitTestLab1\bin\Debug\lab1.exe
+D:\Тестирование\UnitTestLab1\UnitTestLab1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Тестирование\UnitTestLab1\UnitTestLab1\bin\Debug\lab1.pdb
+D:\Тестирование\UnitTestLab1\UnitTestLab1\obj\Debug\UnitTestLab1.csprojResolveAssemblyReference.cache
+D:\Тестирование\UnitTestLab1\UnitTestLab1\obj\Debug\UnitTestLab1.dll
+D:\Тестирование\UnitTestLab1\UnitTestLab1\obj\Debug\UnitTestLab1.pdb

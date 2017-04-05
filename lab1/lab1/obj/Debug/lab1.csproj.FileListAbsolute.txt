@@ -24,3 +24,6 @@ D:\Загрузки\Тестирование\lab1\lab1\obj\Debug\lab1.Properties
 D:\Загрузки\Тестирование\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.Cache
 D:\Загрузки\Тестирование\lab1\lab1\obj\Debug\lab1.exe
 D:\Загрузки\Тестирование\lab1\lab1\obj\Debug\lab1.pdb
+D:\Git_project\Testing\lab1\lab1\bin\Debug\lab1.exe.config
+D:\Git_project\Testing\lab1\lab1\obj\Debug\lab1.exe
+D:\Git_project\Testing\lab1\lab1\obj\Debug\lab1.pdb
